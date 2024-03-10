@@ -1,1 +1,1 @@
-<h1>ağız,göz,yüz,gülümseme ve full vücut algılayan görüntü işleme kodu</h1>
+<h1>ağız,göz,yüz,gülümseme,el ve full vücut algılayan görüntü işleme kodu</h1>
