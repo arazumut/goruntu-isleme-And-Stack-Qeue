@@ -39,3 +39,8 @@
         Eğer "queue" boşsa, buna ilişkin bir bildirim gösterir.
 
 Kod, kullanıcıya stack ve queue veri yapıları üzerinde çeşitli işlemler yapma imkanı sunar ve kullanıcının seçimlerine göre ilgili işlevleri gerçekleştirir.
+
+![Ekran görüntüsü 2024-05-13 130906](https://github.com/arazumut/goruntu-isleme-And-Stack-Qeue/assets/150933483/a6d584e5-e37d-48f9-a762-3003d141e075)
+
+![Ekran görüntüsü 2024-05-13 130833](https://github.com/arazumut/goruntu-isleme-And-Stack-Qeue/assets/150933483/c9d395cc-5ffe-4959-8d29-a88fd2f4e97b)
+![Ekran görüntüsü 2024-05-13 130818](https://github.com/arazumut/goruntu-isleme-And-Stack-Qeue/assets/150933483/89f3c92c-a465-49f3-9f2b-162b90b8582a)
