@@ -8,7 +8,7 @@ Bu Python kodu, bir bilgisayar kamerası kullanarak yüz, göz, ağız ve gülü
     Sonsuz bir döngü (while) başlatılır. Bu döngü, kameradan sürekli görüntüler alır ve her bir kare üzerinde yüz, göz, ağız, gülümseme ve el tespiti yapar.
 
     cap.read() işleviyle bir sonraki kare alınır ve ret ve img değişkenlerine atılır. ret değeri, kameradan kare alınıp alınamadığını gösterir. img, alınan kareyi temsil eden bir görüntü dizisidir.
-
+ 
     Görüntü yatay olarak (cv2.flip()) çevrilir. Bu, aynı anda hem kameranın ön hem de arka tarafından tespitlerin daha iyi yapılabilmesini sağlar.
 
     Görüntü siyah-beyaza (gray) formata dönüştürülür. Yüz, göz, ağız, gülümseme ve el tespiti, genellikle siyah-beyaz görüntülerde daha iyi çalışır.
