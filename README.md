@@ -6,7 +6,7 @@ Bu Python kodu, bir bilgisayar kamerası kullanarak yüz, göz, ağız ve gülü
     cv2.VideoCapture(0) ile bir video yakalama cihazı başlatılır. Parametre olarak 0, bilgisayarınıza bağlı olan birincil kamerayı belirtir.
 
     Sonsuz bir döngü (while) başlatılır. Bu döngü, kameradan sürekli görüntüler alır ve her bir kare üzerinde yüz, göz, ağız, gülümseme ve el tespiti yapar.
-
+ 
     cap.read() işleviyle bir sonraki kare alınır ve ret ve img değişkenlerine atılır. ret değeri, kameradan kare alınıp alınamadığını gösterir. img, alınan kareyi temsil eden bir görüntü dizisidir.
  
     Görüntü yatay olarak (cv2.flip()) çevrilir. Bu, aynı anda hem kameranın ön hem de arka tarafından tespitlerin daha iyi yapılabilmesini sağlar.
