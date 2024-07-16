@@ -20,6 +20,7 @@ Bu Python kodu, bir bilgisayar kamerası kullanarak yüz, göz, ağız ve gülü
     El tespiti için benzer bir işlem yapılır (hand_cascade.detectMultiScale()).
 
     Etiketler ve dikdörtgenler, cv2.putText() ve cv2.rectangle() işlevleri kullanılarak orijinal görüntü üzerine çizilir.
+    
 
     cv2.imshow() işleviyle, tespit edilen yüzlerin, gözlerin, ağızların, gülücüklerin ve ellerin işaretli olduğu orijinal görüntü görüntülenir.
 
