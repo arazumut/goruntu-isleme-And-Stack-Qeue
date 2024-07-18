@@ -1,5 +1,6 @@
 <h1>ağız,göz,yüz,gülümseme,el ve full vücut algılayan görüntü işleme kodu</h1>
 
+
 Bu Python kodu, bir bilgisayar kamerası kullanarak yüz, göz, ağız ve gülümseme tespiti yapar 
     İlk olarak, gerekli kütüphaneler (cv2) içe aktarılır. Ayrıca, yüz, göz, ağız, gülümseme ve el tespiti için önceden eğitilmiş sınıflandırıcılar (CascadeClassifier) belirtilen XML dosyalarından yüklenir.
 
