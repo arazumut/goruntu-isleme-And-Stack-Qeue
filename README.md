@@ -5,6 +5,7 @@ Bu Python kodu, bir bilgisayar kamerası kullanarak yüz, göz, ağız ve gülü
     İlk olarak, gerekli kütüphaneler (cv2) içe aktarılır. Ayrıca, yüz, göz, ağız, gülümseme ve el tespiti için önceden eğitilmiş sınıflandırıcılar (CascadeClassifier) belirtilen XML dosyalarından yüklenir.
 
     cv2.VideoCapture(0) ile bir video yakalama cihazı başlatılır. Parametre olarak 0, bilgisayarınıza bağlı olan birincil kamerayı belirtir.
+    
 
     Sonsuz bir döngü (while) başlatılır. Bu döngü, kameradan sürekli görüntüler alır ve her bir kare üzerinde yüz, göz, ağız, gülümseme ve el tespiti yapar.
  
